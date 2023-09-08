@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #3e5770 !important;
+}
+.bmical{
+    text-align: center;
+}
+.bmitext{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.bminum{
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+    color: #3e5770 !important;
+    font-weight: 600;
+}
+input:focus{
+    outline: none;
+}
+.btn-cal{
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #3e5770;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500 !important;
+    width: 150px;
+    font-weight: 600 !important;
+}
+#result{
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.bmiheight{
+    font-size: 18px;
+    color: #ffffff;
+
+}
